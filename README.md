@@ -2,7 +2,7 @@
 
 A match application using the Express package for Node.js!
 
-Check out the deployed app on Heroku <a href="#">here!</a>
+Check out the deployed app on Heroku <a href="https://floating-sands-77246.herokuapp.com/">here!</a>
 
 This app uses Express to serve 2 static HTML files and 2 API routes to get and post data.
 
